@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://jsonplaceholder.typicode.com/users",
+    "expected_status": 200
+  },
+  {
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "expected_status": 200
+  },
+  {
+    "url": "https://jsonplaceholder.typicode.com/comments",
+    "expected_status": 200
+  },
+  {
+    "url": "https://jsonplaceholder.typicode.com/invalidendpoint",
+    "expected_status": 404
+  }
+]
