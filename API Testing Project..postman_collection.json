@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "64b71d4f-5044-4a4a-8433-2cc342632fed",
+		"name": "API Testing Project.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48488098"
+	},
+	"item": [
+		{
+			"name": "Users",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
