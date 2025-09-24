@@ -1,8 +1,10 @@
-# API Testing Project
+
+# API Testing Project ![API Tests](https://github.com/shreerang14/API-Testing-Project/actions/workflows/python-tests.yml/badge.svg)
 
 ## 📌 Overview
 This project demonstrates **API testing using Postman, Python (Requests + PyTest), and SQLite** with integration into a **CI/CD pipeline (GitHub Actions)**.  
 It validates RESTful endpoints, checks payload structures, and performs data integrity checks in a database.
+
 
 ## 🛠️ Tech Stack
 - **Postman** → API test collections (status code, payload validation)
